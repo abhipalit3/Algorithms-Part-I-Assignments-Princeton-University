@@ -68,7 +68,7 @@ public class Percolation {
 
     // test client (optional)
     public static void main(String[] args) {
-        Percolation p = new Percolation(10);
+        Percolation p = new Percolation(20);
 
         System.out.println(p);
     }
